@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPP-AssBrowser", "SPP-AssBrowser\SPP-AssBrowser.csproj", "{C4F4444D-1DC5-41D6-851E-4CA36B751BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E1B6D187-76CF-4426-A4DA-DD5D0D0FF289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F4444D-1DC5-41D6-851E-4CA36B751BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F4444D-1DC5-41D6-851E-4CA36B751BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F4444D-1DC5-41D6-851E-4CA36B751BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F4444D-1DC5-41D6-851E-4CA36B751BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B6D187-76CF-4426-A4DA-DD5D0D0FF289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B6D187-76CF-4426-A4DA-DD5D0D0FF289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B6D187-76CF-4426-A4DA-DD5D0D0FF289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B6D187-76CF-4426-A4DA-DD5D0D0FF289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C3E227-8574-45AD-A0A1-11699506C90E}
+	EndGlobalSection
+EndGlobal
